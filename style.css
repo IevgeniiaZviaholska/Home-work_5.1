@@ -1,0 +1,122 @@
+.services{
+    margin-left: 345px;
+    margin-right: 345px;
+    margin-top: 56px;
+    margin-bottom: 66px;
+            
+    }
+.service{
+    float: left;
+    width: 220px;
+    height: 167px;
+    text-align: center;    
+    }
+
+
+a {
+    width: 65px;
+    height: 65px;
+    border-radius: 65px;
+    border: 1px solid #1275b9;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+            
+}
+a:hover {
+    background-color: white;
+    width: 65px;
+    height: 65px;
+    border-radius: 65px;
+    border: 1px solid #1275b9;
+    display: block;   
+    
+}
+.service-icon-Tablet{
+    background: url(Tablet-blue.png);
+    background-color: #1275b9; 
+    width: 22px;
+    height: 30px;
+    padding: 17px 21px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+}
+
+.service-icon-Tablet:hover{
+     background: url(Tablet.png);
+     width: 22px;
+     height: 30px;
+     padding: 17px 21px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     background-repeat: no-repeat;
+    }
+.service-icon-Settings {   
+     background: url(Settings.png);
+     background-color: #1275b9; 
+     width: 26px;
+     height: 26px;
+     padding: 19px 19px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     background-repeat: no-repeat;
+    }
+.service-icon-Settings:hover{
+     background: url(Settings-white.png);
+     width: 26px;
+     height: 26px;
+     padding: 19px 19px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     background-repeat: no-repeat;
+    }
+
+.service-icon-dashboard {
+    background: url(Dashboard.png);
+    background-color: #1275b9; 
+    width: 28px;
+    height: 24px;
+    padding: 19px 18px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+}
+.service-icon-dashboard:hover{
+    background: url(Dashboard-white.png);
+    width: 28px;
+    height: 24px;
+    padding: 19px 18px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+}
+.service-title{
+height: 10px;
+color: #000000;
+font-family: "Montserrat";
+font-size: 14px;
+font-weight: 400px;
+line-height: 24px;
+text-transform: uppercase;
+letter-spacing: 0.35px;
+}
+.service-description{
+width: 220px;
+height: 52px;
+color: #9d9d9d;
+font-family: "Montserrat";
+font-size: 14px;
+font-weight: 300px;
+line-height: 20px;
+letter-spacing: 0.35px;
+margin-top: 22px;
+margin-left: 0px;
+margin-right: 0px;
+}
